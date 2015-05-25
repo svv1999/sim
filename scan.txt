@@ -1,0 +1,4 @@
+Schlachtschiff 20
+Waffentechnik 5
+Schildtechnik 5
+Raumschiffpanzerung 5

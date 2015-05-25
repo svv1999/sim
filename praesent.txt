@@ -1,0 +1,7 @@
+Raketenwerfer 0
+Leichtes Lasergeschütz 0
+Schlachtschiff 22
+Runs 58
+Waffentechnik 5
+Schildtechnik 5
+Raumschiffpanzerung 5
